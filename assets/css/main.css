@@ -790,7 +790,7 @@ section,
 .social-icon i:hover {
   color: #fff;
   background-color: #111111;
-  border-color: #292929;
+  border-color: #222222;
 }
 
 .social-icon a {
@@ -1097,7 +1097,7 @@ section,
 .contact .info-item:hover i {
   background: #111;
   color: #fff;
-  border-color: #292929;
+  border-color: #222222;
 }
 
 .contact .php-email-form {
