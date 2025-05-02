@@ -341,7 +341,7 @@ h6 {
     list-style: none;
     position: absolute;
     inset: 60px 0 0 0;
-    padding: 50px 30px;
+    padding: 50px 40px;
     margin: 0;
     border-radius: 0;
     box-shadow: none;
@@ -876,7 +876,7 @@ section,
 # Skills Section
 --------------------------------------------------------------*/
 .skills {
-  padding: 40px 0 150px 0;
+  padding: 40px 0 200px 0;
   margin: 0 30px;
 }
 
