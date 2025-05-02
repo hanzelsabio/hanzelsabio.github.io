@@ -435,7 +435,7 @@ h6 {
     position: fixed;
     overflow: hidden;
     inset: 0;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.83);
     transition: 0.3s;
   }
 
@@ -1051,6 +1051,10 @@ section,
 .contact {
   padding: 50px 0 250px 0;
   margin: 0 30px;
+}
+
+.contact .section-title {
+  padding-bottom: 20px;
 }
 
 .contact .section-title h2:after {
