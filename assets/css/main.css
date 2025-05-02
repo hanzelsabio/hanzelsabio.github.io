@@ -1060,7 +1060,7 @@ section,
 .contact .info-item i {
   font-size: 25px;
   color: var(--contrast-color);
-  background-color: #292929;
+  background-color: var(--accent-color);
   width: 70px;
   height: 70px;
   display: flex;
@@ -1087,7 +1087,7 @@ section,
 }
 
 .contact .info-item:hover i {
-  background: #111;
+  background: #a50113;
   color: #fff;
   border-color: #222222;
 }
