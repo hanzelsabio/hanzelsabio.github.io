@@ -732,6 +732,15 @@ section,
   padding: 10px;
 }
 
+.about_me .about-me h1 {
+  color: #bbb;
+  font-size: 30px;
+  position: relative;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  font-weight: 700;
+}
+
 .about_me .about-me h4 {
   color: #bbb;
   font-size: 20px;
@@ -741,6 +750,7 @@ section,
   font-weight: 700;
 }
 
+.about_me .about-me h1:after,
 .about_me .about-me h4:after {
   content: "";
   position: absolute;
