@@ -1155,6 +1155,39 @@ section,
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
 
+.card {
+  border-radius: 0;
+  border: none;
+}
+
+.card-body {
+  padding: 30px 20px;
+  color: #fff;
+  background-color: #000;
+}
+
+.card-body p {
+  font-size: 13px;
+}
+
+.card-title {
+  font-size: 17px;
+}
+
+.card-footer {
+  background-color: #222;
+  border-radius: 0 !important;
+}
+
+.card-footer a {
+  padding: 10px;
+}
+
+.card-footer .btn {
+  color: #fff;
+  border: none;
+}
+
 /*--------------------------------------------------------------
 # footer
 --------------------------------------------------------------*/
